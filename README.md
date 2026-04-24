@@ -26,7 +26,7 @@ I am Wasabigrill/Zoey/Zhuang-Yan - a Ph.D. reseracher in Physics and a self-taug
 My Ph.D. topic is Ultrafast electronic and molecular dyanmics probed by transient soft X-ray absorbtion spectroscopy at the nitrogen K-edge. This reserach mainly involves optical physics and molecular physics, and it was a part of a Marie Skłodowska-Curie ITN (https://www.smartx-itn.eu/) hosted in Max-Born-Insitute for ultrafsat nonlinear spectroscopy. My works requires me to work with class-4 femtosecond laser system, vaccum setup, (very-cool but also annoying) liquid flat-jet system, a table-top soft X-ray generation setup based on HHG, and a home built soft X-ray spectrometer. The data type of gathered date during experiments is .raw and those are camera imgages of absorption spectrum measured at different pump-probe time delays. The data analysis was conducted using mainly MATLAB with the support of curve-fitting toolbox. In addition, I also have experience working in synchrotrons (Bessy, Max IV) and free-electron lasers (XFEL).
 My Master's graduation project was conduced in Advanced Reserach Center for Nanolithography, Amsterdam. My project topic is high-harmonic generation from structured fused silica. My work there involves using laser system, vacuum setup, nanofabrication (UV, e-beam lithrography) in clean-room, data analysis using MATLAB. I have also wrote a reserach proposal of insulator-to-metal phase transition in VO<sub>2</sub> in University of Tokyo on studying, where I initally wanted to do a Ph.D., sadly covid happened.
 
-#### Overview of software engineering project
+#### Overview of software engineering projects
 I have done advent of code in python, you can find them in my git repo. 
 - Push-swap project (C)
   
