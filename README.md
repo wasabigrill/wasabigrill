@@ -16,7 +16,7 @@ Thank you for checking my profile. 😄
 ---
 ### 📂 Featured Projects
 - **[Push_swap](link):** A greedy-logic sorting algorithm in C focusing on O(n²) vs O(n log n) efficiency.
-- **[Maze Generator](link):** (Your current project!) Perfect maze generation using Randomized DFS and GraphQL integration.
+- **[Maze Generator](link):** Perfect maze generation using Randomized DFS and GraphQL integration.
 - **[Waste Tracker App]:** Personal Android project to monitor household sustainability and cleaning schedules.
 
 ---
