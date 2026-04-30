@@ -15,8 +15,8 @@ Thank you for checking my profile. 😄
 - **Scientific:** Femtosecond Lasers, Vacuum Systems, Nanofabrication, Pump-probe spectroscopy etc..
 ---
 ### 📂 Featured Projects
-- **[Push_swap](link):** A greedy-logic sorting algorithm in C focusing on O(n²) vs O(n log n) efficiency.
-- **[Maze Generator](link):** Perfect maze generation using Randomized DFS and GraphQL integration.
+- **[Push_swap]:** A greedy-logic sorting algorithm in C focusing on O(n²) vs O(n log n) efficiency.
+- **[Maze Generator]:** Perfect maze generation using Randomized DFS and GraphQL integration.
 - **[Waste Tracker App]:** Personal Android project to monitor household sustainability and cleaning schedules.
 
 ---
