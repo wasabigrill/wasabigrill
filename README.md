@@ -7,7 +7,7 @@ Thank you for checking my profile. 😄
 - 🏫 **42 Berlin Student:** Mastering C, Systems Programming, and Peer-to-Peer learning.
 - 🌍 **Global Citizen:** Lived in 5+ countries; Vegan for 10+ years; Bouldering enthusiast.
 - 📍 **Currently in:** Hamburg, Germany (Exploring new opportunities!)
-- :hugs: **Looking for**: Junior software engineer position (Remote in Germany / On-site in Hamburg)
+- :hugs: **Looking for**: Junior tech position
   
 ### 🛠️ Technical Toolkit
 - **Languages:** C and Python (Core), MATLAB, [Learning Android/Kotlin]
