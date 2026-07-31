@@ -3,7 +3,7 @@
 Thank you for checking my profile. 😄
 
 ### 🚀 TL;DR
-- 🎓 **Ph.D. Candidate (Free University of Berlin):** Ultrafast electronic and molecular dynamics & soft X-ray spectroscopy.
+- 🎓 **Ph.D. in Physics (Free University of Berlin):** Ultrafast electronic and molecular dynamics & soft X-ray spectroscopy.
 - 🏫 **42 Berlin Student:** Mastering C, Systems Programming, and Peer-to-Peer learning.
 - 🌍 **Global Citizen:** Lived in 5+ countries; Vegan for 10+ years; Bouldering enthusiast.
 - 📍 **Currently in:** Hamburg, Germany (Exploring new opportunities!)
